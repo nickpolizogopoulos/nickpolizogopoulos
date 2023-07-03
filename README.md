@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.
 - 👀 I’m interested in Web Development and Software Programming.
-- 🌱 I'm primarily focused on Front-End Development, specifically in React with Typescript.
+- 🌱 I'm primarily focused on Front-End Development, specifically in React using Typescript and many third party React libraries.
 - 📫 Reach me at linkedin.com/in/nickpolizogopoulos/
 
 <!---
