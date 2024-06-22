@@ -11,4 +11,6 @@
   <img width="30px" src="https://ng-signature-generator.web.app/assets/social/web-logo.png">
 </a>
 
+<br>
+
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickpolizogopoulos&layout=compact" />
