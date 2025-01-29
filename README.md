@@ -27,7 +27,7 @@ const me: Developer = {
 <code><img height="42" width="47" src="https://nick-polizogopoulos.web.app/images/web-tools/React.png"></code>
 <code><img height="40" width="47" src="https://nick-polizogopoulos.web.app/images/web-tools/Bootstrap.png"></code>
 <code><img height="40" width="51" src="https://nick-polizogopoulos.web.app/images/web-tools/Tailwind.png"></code>
-<code><img height="42" width="44" src="https://nick-polizogopoulos.web.app/images/web-tools/ChakraUI.png"></code>
+<code><img height="42" width="42" src="https://nick-polizogopoulos.web.app/images/web-tools/ChakraUI.png"></code>
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Git.png"></code>
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Axios.png"></code>
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/ReactRouter.png"></code>
