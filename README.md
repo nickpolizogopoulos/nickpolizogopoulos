@@ -49,10 +49,10 @@ const me: Developer = {
     <td><a href="https://www.linkedin.com/in/nickpolizogopoulos/" target="_blank">LinkedIn</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/nickpolizogopoulos/" target="_blank">
+    <td><a href="https://linktr.ee/nick_polizogopoulos" target="_blank">
       <img width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUl9p5O30Bq3OaoOiI5O_PmGRZjvbteT7mQ&s"></a>
     </td>
-    <td><a href="https://www.linkedin.com/in/nickpolizogopoulos/" target="_blank">Projects</a></td>
+    <td><a href="https://linktr.ee/nick_polizogopoulos" target="_blank">Projects</a></td>
   </tr>
 </table>
 
