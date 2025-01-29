@@ -3,6 +3,8 @@
 <p>I am a Web Development, Software Programming & Engineering enthusiast.<br>
 I am primarily focused on Web Development using React & Angular.</p>
 
+<img height="37" width="37" src="https://em-content.zobj.net/source/facebook/65/slightly-smiling-face_1f642.png">
+
 ```ts
 const me: Developer = {
   name: 'Nick Polizogopoulos',
