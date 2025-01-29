@@ -29,7 +29,6 @@ const me: Developer = {
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Git.png"></code>
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Axios.png"></code>
 <code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/ReactRouter.png"></code>
-<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/JSON.png"></code>
 <code><img height="46" width="39" src="https://nick-polizogopoulos.web.app/images/web-tools/Sass.png"></code>
 <code><img height="43" width="40" src="https://nick-polizogopoulos.web.app/images/web-tools/Angular-17.png"></code>
 <code><img height="43" width="34" src="https://nick-polizogopoulos.web.app/images/web-tools/Firebase.png"></code>
