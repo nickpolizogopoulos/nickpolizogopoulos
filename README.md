@@ -23,20 +23,20 @@ const me: Developer = {
 
 <h2>Some Skills & Tools I Bring to the Table</h2>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="TypeScript"></code>
-<code><img height="43" width="40" src="https://nick-polizogopoulos.web.app/images/web-tools/Angular-17.png" title="Angular"></code>
-<code><img height="45" width="45" src="https://nick-polizogopoulos.web.app/images/web-tools/Nextjs.png" title="Next.js"></code>
-<code><img height="42" width="48" src="https://nick-polizogopoulos.web.app/images/web-tools/React.png" title="React"></code>
-<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Axios.png" title="Axios"></code>
-<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/ReactRouter.png" title="React Router"></code>
-<code><img height="46" width="39" src="https://nick-polizogopoulos.web.app/images/web-tools/Sass.png" title="Sass"></code>
-<code><img height="40" width="51" src="https://nick-polizogopoulos.web.app/images/web-tools/Tailwind.png" title="Tailwind"></code>
-<code><img height="40" width="49" src="https://nick-polizogopoulos.web.app/images/web-tools/Bootstrap.png" title="Bootstrap"></code>
-<code><img height="43" width="38" src="https://nick-polizogopoulos.web.app/images/web-tools/Angular-Material.png" title="Angular Material"></code>
-<code><img height="42" width="42" src="https://nick-polizogopoulos.web.app/images/web-tools/ChakraUI.png" title="ChakraUI"></code>
+<code><img height="43" width="40" src="https://nick-polizogopoulos.web.app/images/web-tools/angular.webp" title="Angular"></code>
+<code><img height="45" width="45" src="https://nick-polizogopoulos.web.app/images/web-tools/nextjs.webp" title="Next.js"></code>
+<code><img height="42" width="48" src="https://nick-polizogopoulos.web.app/images/web-tools/react.webp" title="React"></code>
+<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/axios.webp" title="Axios"></code>
+<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/react-router.webp" title="React Router"></code>
+<code><img height="46" width="39" src="https://nick-polizogopoulos.web.app/images/web-tools/sass.webp" title="Sass"></code>
+<code><img height="40" width="51" src="https://nick-polizogopoulos.web.app/images/web-tools/tailwind.webp" title="Tailwind"></code>
+<code><img height="40" width="49" src="https://nick-polizogopoulos.web.app/images/web-tools/bootstrap.webp" title="Bootstrap"></code>
+<code><img height="43" width="38" src="https://nick-polizogopoulos.web.app/images/web-tools/angular-material.webp" title="Angular Material"></code>
+<code><img height="42" width="42" src="https://nick-polizogopoulos.web.app/images/web-tools/chakraui.webp" title="ChakraUI"></code>
 <code><img height="42" width="42" src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" title="RadixUI"></code>
-<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/Git.png" title="Git"></code>
-<code><img height="43" width="34" src="https://nick-polizogopoulos.web.app/images/web-tools/Firebase.png" title="Firebase"></code>
-<code><img height="43" width="36" src="https://nick-polizogopoulos.web.app/images/web-tools/Supabase.png" title="Supabase"></code>
+<code><img height="43" width="43" src="https://nick-polizogopoulos.web.app/images/web-tools/git.webp" title="Git"></code>
+<code><img height="43" width="34" src="https://nick-polizogopoulos.web.app/images/web-tools/firebase.webp" title="Firebase"></code>
+<code><img height="43" width="36" src="https://nick-polizogopoulos.web.app/images/web-tools/supabase.webp" title="Supabase"></code>
 
 <br><br>
 <p>In <code><a href="https://nick-polizogopoulos.web.app/more/blog/my-development-roadmap" target="_blank">this.post</a></code> titled "My Development Roadmap", I break down everything I've learned and all the Web Development tools I'm familiar with.</p>
